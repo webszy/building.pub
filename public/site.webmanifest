@@ -1,0 +1,23 @@
+{
+  "name": "building.pub",
+  "short_name": "building.pub",
+  "description": "Discover independent projects, meet the builders behind them, and explore what people are creating.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C45A1A",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/media/brand-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
